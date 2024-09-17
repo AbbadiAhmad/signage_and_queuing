@@ -23,7 +23,8 @@ We will provide pricing details and terms based on your intended use of the soft
 ## 3. Attribution
 
 Even under a commercial license, all usage of this software must properly attribute the original author. All derived works must include the following attribution, either in documentation or a prominent place in the product:
-~~~This product includes software developed by [Project's GitHub URL]).~~~
+
+"This product includes software developed by [Project's GitHub URL])."
 
 
 ## 4. Commercial License Fees
