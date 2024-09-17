@@ -1,7 +1,3 @@
-Certainly! Here's the **markdown (md)** version of the process steps:
-
----
-
 ### Steps to Communicate and Explain the System (Advanced Signage System)
 
 1. **System Overview and Context Definition**
@@ -90,7 +86,3 @@ In this case, some steps can be done in parallel. Below is a simplified flowchar
                                      v
                           [Maintenance and Extensibility Plan]
 ```
-
----
-
-Feel free to ask about any specific step for more details!
